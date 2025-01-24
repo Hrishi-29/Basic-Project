@@ -75,7 +75,7 @@
     bottom: 40px;
 }
 .sidebar_menu .social_media a{
-    font-size: 20px;
+    font-size: 25px;
     padding: 8px;
     color: white;
     opacity: 0.5;
@@ -100,7 +100,7 @@
     box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
 }
 .sidebar_menu .social_media a :hover {
-    font-size: 25px;
+    font-size: 28px;
 }
 .sidebar_menu .social_media :hover {
     color: white;
